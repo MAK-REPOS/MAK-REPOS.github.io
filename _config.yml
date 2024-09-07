@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/site-logo.png"
+  avatar           : "MAK.png"
   name             : "MOHAMMED ANAS Khan"
   pronouns         : # example: "she/her"  
   bio              : "Engineering grad pursuing CSE with a specialization in AI & ML."
