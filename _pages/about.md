@@ -17,7 +17,7 @@ Programming Languages: Python (Proficient), C
 Web Development: HTML, CSS, Django
 Database Management: MySQL
 Data Science: Machine Learning Algorithms (Regression, Classification, Clustering), Deep Learning (TensorFlow, Keras)
-Data Structures & Algorithms: Basics
+Data Structures & Algorithms: Basics.
 
 In the future, I aim to become a successful AI and ML engineer, developing software solutions for industries and everyday users alike. My goal is to create AI-driven systems that enhance productivity, improve decision-making, and streamline daily tasks, making life more efficient for businesses and individuals.
 
