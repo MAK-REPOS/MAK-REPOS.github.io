@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Mohammed Anas Khan"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "MOHAMMED ANAS KHAN"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Engineering grad pursuing CSE with a specialization in AI & ML"
   location         : "INDIA"
   employer         : "Red Brick University"
   uri              : # URL
