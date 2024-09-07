@@ -11,7 +11,9 @@ Hello, and thank you for visiting my profile! I am currently pursuing a Bachelor
 
 Throughout my academic journey, I have actively worked on several AI and ML projects, including large language models (LLMs) and business profitability analysis. My projects focus on analyzing data to derive meaningful insights, such as identifying opportunities to enhance profits and reduce losses through various data-driven techniques. I enjoy using machine learning models to provide visual representations of these insights and offer solutions to optimize business operations.
 
-In the future, I aim to become a successful AI and ML engineer, developing software solutions for industries and everyday users alike. My goal is to create AI-driven systems that enhance productivity, improve decision-making, and streamline daily tasks, making life more efficient for businesses and individuals.
+I am particularly excited about contributing to organizations that lead innovation in AI, machine learning, and data science. With a strong interest in the integration of AI-powered solutions for automation and optimization, I am keen to work on projects that align with  technological growth, such as smart home automation systems and AI-driven surveillance.
+
+In the future, I aspire to become a distinguished AI and ML engineer, designing cutting-edge software solutions for both industrial applications and broader consumer markets alike. My objective is to develop AI-powered systems that boost operational efficiency, enhance data-driven decision-making, and automate routine tasks, ultimately driving productivity and elevating the quality of life for businesses and individuals alike.
 
 A data-driven personal website
 ======
