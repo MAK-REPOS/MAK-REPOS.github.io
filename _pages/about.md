@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,7 +15,6 @@ I am particularly excited about contributing to organizations that lead innovati
 
 In the future, I aspire to become a successful AI and ML engineer, designing cutting-edge software solutions for both industrial applications and broader consumer markets alike. My objective is to develop AI-powered systems that boost operational efficiency, enhance data-driven decision-making, and automate routine tasks, ultimately driving productivity and elevating the quality of life for businesses and individuals alike.
 
-About me
 ======
 
 
