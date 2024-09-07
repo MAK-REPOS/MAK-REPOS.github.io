@@ -15,7 +15,7 @@ I am particularly excited about contributing to organizations that lead innovati
 
 In the future, I aspire to become a distinguished AI and ML engineer, designing cutting-edge software solutions for both industrial applications and broader consumer markets alike. My objective is to develop AI-powered systems that boost operational efficiency, enhance data-driven decision-making, and automate routine tasks, ultimately driving productivity and elevating the quality of life for businesses and individuals alike.
 
-A data-driven personal website
+About me
 ======
 
 
