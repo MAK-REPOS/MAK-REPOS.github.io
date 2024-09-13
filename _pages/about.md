@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, and thank you for visiting my profile! I am currently pursuing a Bachelor of Engineering in Computer Science with a specialization in Artificial Intelligence and Machine Learning, along with an honors program in AI & ML. My passion lies in harnessing the power of machine learning and AI to create impactful solutions for both commercial and everyday applications.
+I am currently pursuing a Bachelor of Engineering in Computer Science with a specialization in Artificial Intelligence and Machine Learning, along with an honors program in AI & ML. My passion lies in harnessing the power of machine learning and AI to create impactful solutions for both commercial and everyday applications.
 
 Throughout my academic journey, I have actively worked on several AI and ML projects, with my most significant project being an LLM-based cold email generator. This project focuses on automatingg the process generating personalized cold emails for service companies, showcasing my expertise in utilizing large language models (LLMs) to solve real-world business problems. Alongside this, I have also worked on business profitability analysis, where I analyze data to derive insights that enhance profits and reduce losses through various data-driven techniques. Using machine learning models, I create visual representations of these insights to optimize business operations efficiently.
 
